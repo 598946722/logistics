@@ -1,0 +1,30 @@
+.w980{
+	width:980px;
+	margin:0px auto;
+}
+.f-l{
+	float:left;
+}
+.f-r{
+	float:right;
+}
+a{
+	color:#898989;
+	text-decoration:none;
+	font-size:12px;
+}
+a:hover {
+	text-decoration:none; 
+}
+*{
+	margin: 0px;
+	padding: 0px;
+}
+ul li {
+	list-style:none;
+}
+/* body,html{
+	height: 100%;
+	font-family: 'iconfont','微软雅黑';
+	font-size:12px;
+} */
